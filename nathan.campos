@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venda de Carros</title>
+</head>
+<body>
+    <h1> </h1>
+    <p> PRODUTOS DISPONIVEIS </p>
+    <hr>
+    <br>
+    <br>
+    <br>
+    <h1></h1>
+    <p> CARROS DISPONIVEIS </p>
+    <img src="download.jpg" alt="">
+    <p>Carro:gol 2011 
+        valor 17.000 <button>Comprar</button>
+    </p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <hr>
+    <h2></h2>
+    <p> <b>CASA NA PRAIA</b></p>
+    <img src="https://media.imoveis-sc.com.br/media/pad-760-580-000/saofranciscodosul-casa-capri-1156113-0-imagem_imovel_632d21b180cc01892812257000.jpg" 
+    height="300"
+    width="400">
+    <p>Casa no Bairro Capri em São Francisco do Sul com 5 Dormitórios (2 suítes) - 129</p>
+   <p>Valor:R$ 3.500.000</p> 
+   <hr>
+   <h1>Revenda seu próprio carro</h1>
+   <p><h3>Quer revender seu carro da melhor forma?</h3></p>
+   <h2>Adiquirindo muito <mark>ALCANCE</mark> e <mark>LUCRO</mark>?</h2>
+   <br>
+   <h3>Conseguindo realizar sua venda sem se preocupar com</h3>
+   <ul>
+   <li><s>Impostos</s></li>
+   <li><s>Golpes</s></li>
+   <li><s>Problemas com a justiça</s></li>
+   </ul>
+   <br>
+   <br>
+   <h4>Se você gostou e quer aderir a nossa proposta</h4>
+   <h1><mark>ANUNCIE SEU CARRO JÁ!!!!</mark></h1>
+   <br>
+   <h2><code>Realize seu cadastro</code></h2>
+   <br>
+   <figcaption>Insira uma imagem do seu automóvel</figcaption>
+   <img
+   src="https://cdn.icon-icons.com/icons2/1933/PNG/512/iconfinder-picture-images-photo-image-camera-4593187_122267.png"
+   height="100"
+   width="100"
+   alt="Insira uma imagem"
+   title="Insira uma imagem">
+   <button><i>Anexar imagem</i></button>
+   <br>
+   <br>
+   <br>
+   <figcaption>Digite a <i>marca</i>, o <i>modelo</i> e o <i>ano</i> de seu automóvel.</figcaption>
+   <input type="text" name="Modelo" size="30">
+   <br>
+   <br>
+   <br>
+   <figcaption>Digite o <b> preço</b> que deseja realizar a venda de seu automóvel.</figcaption>
+   <input type="number" name="Preço" size="30">
+   <br>
+   <br>
+   <br>
+   <figcaption>Digite quantos <b>quilomêtros rodados</b> seu carro possui</figcaption>
+   <input type="numbe" name="quilomêtros" size="30">
+   <br>
+   <br>
+   <button><a href="file:///C:/Users/ferna/Desktop/deswbe-2023/pagina2.html" target="_blank"> Anunciar </a></button>
+   <hr>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <hr>
+   <h1>Ofertas de emprego</h1>
+   <hr>
+   <p><h2>Quer ingressar ou continuar no mercado de trabalho?</h2></p>
+   <h2>Adiquirindo muito <mark>EXPERIÊNCIA</mark> e <mark>ÓTIMO SALÁRIO</mark>, com a possibilidade de trablhar com o emprego dos seus sonhos?</h2>
+   <br>
+   <h3>Aqui apresentamos algumas empresas parceiras do nosso site</h3>
+   <ul>
+   <li><b>Nidec</b></li>
+   <li><b>Neogrid</b></li>
+   <li><b>Clamed</b></li>
+   <li><b>TOTVS</b></li>
+   <li><b>Tecnofibra</b></li>
+   <li><b>Microsoft</b></li>
+   <li><b>Claro</b></li>
+   <li><b>Whirlpool</b></li>
+   </ul>
+   <br>
+   <br>
+   <h3>Se você gostou e quer aderir a nossa proposta</h3>
+   <h4>Insira seu currículo</h4>
+   <img
+   src="https://cdn.icon-icons.com/icons2/1933/PNG/512/iconfinder-picture-images-photo-image-camera-4593187_122267.png"
+   height="100"
+   width="100"
+   alt="Insira uma imagem"
+   title="Insira uma imagem">
+   <br>
+   <h4>Informe a formatação do documento</h4>
+   <select name="formatação">
+   <option value="pdf">PDF</option>
+   <option value="jpg">JPG</option>
+   <option value="docx">.docx</option>
+   </select>
+   <br>
+   <br>
+   <button><i>Anexar imagem</i></button>
+   <br>
+   <br>
+   <h2>Para qual empresa deseja enviar seu currículo ?</h2>
+   <select name="formatação">
+   <option value="pdf">Nidec</option>
+   <option value="jpg">Neogrid</option>
+   <option value="docx">Clamed</option>
+   <option value="pdf">TOTVS</option>
+   <option value="pdf">Tecnofibra</option>
+   <option value="pdf">Microsoft</option>
+   <option value="pdf">Claro</option>
+   <option value="pdf">TIM</option>
+   </select>
+   <hr>
+   <hr>
+   <h2>Previsão do tempo</h2>
+<ul>
+    <li>Segunda
+        <ul>
+            <li>Sol 26°C</li>
+            <li>Terça
+                <ul>
+                    <li>Nublado 22°C</li>
+                    <li>Quarta
+                        <ul>
+                            <li>Sol 27°C</li>
+                            <li>Quinta
+                                <ul>
+                                    <li>Sol 27°C</li>
+                                    <li>Sexta
+                                        <ul>
+                                            <li>Sol 30°C</li>
+                                            <li>Sabado
+                                                <ul>
+                                                    <li>°C</li>
+            
+        </ul>
+   
+   </body>
+   </html>
+    
+    
+    
+  
+
+</body>
+</html>
